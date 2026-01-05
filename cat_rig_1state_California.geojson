@@ -1,0 +1,633 @@
+{
+  "type": "FeatureCollection",
+  "features": [    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.5804892,39.1770733
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5684838,35.8198289
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4628774,38.2362835
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.595207,41.2593279
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8957901,40.1121863
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4299752,35.071632
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2336902,36.5702783
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9845417,33.5700567
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6010704,33.5578486
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9754576,33.5887025
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.798145,34.2736
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/ZrJBS7jr0VF5BkMbQDpkSDI4GGk/Bx3tTQ../Animal+Rescues+.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3118515,40.3539474
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8308548,34.617627
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/ZrJBS7jr0VF5BkMbQDpkSDI4GGk/Bx3tTQ../Animal+Rescues+.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5321311,36.6744603
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7527945,38.6842539
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6708451,35.2651896
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/AT3tiGPQOQKTKK4v3VlwuibcbGo/peui5w../Brewery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6520721,35.287901
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/AT3tiGPQOQKTKK4v3VlwuibcbGo/peui5w../Brewery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8345561,38.9824518
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3621646,35.6390351
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8231091,38.5175996
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6984023,38.7403292
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.972083,38.7177257
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1136823,34.2076384
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.096148,37.707378
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/4c8SwEztp5RQxtc3eRoU_vy31ig/on1XRw../Non-Profit.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1080997,36.7347754
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3344149,33.8844856
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.922013,38.655686
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0732387,37.6994871
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/OL2R48InTpv2-oD3zNrLSYNroPY/B6T6vQ../Churches.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2631149,38.5263467
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2841854,34.5295615
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/4c8SwEztp5RQxtc3eRoU_vy31ig/on1XRw../Non-Profit.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.697714,38.0476669
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.910943,34.3987765
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.237312,39.369373
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1756179,33.2932231
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2008259,38.1016807
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1182089,38.9774405
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/ZrJBS7jr0VF5BkMbQDpkSDI4GGk/Bx3tTQ../Animal+Rescues+.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2100396,34.4252828
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6968221,38.6758863
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.194278,33.136367
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/zLQA3JFeZm12OCVDqGk1H9Sr7Lw/kFQjeg../Mom+%26+Pop+RV+Shops.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6480303,36.841956
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.998712,33.5339413
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.900499,36.855416
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3081929,40.7664561
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2601011,40.4359263
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8664052,40.6828829
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2708869,34.0628367
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8698296,34.1243809
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9767686,39.0617908
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8612606,36.5233128
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1358368,36.6791374
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7911574,40.0091992
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/4c8SwEztp5RQxtc3eRoU_vy31ig/on1XRw../Non-Profit.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8974207,39.10188
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8352052,34.5498805
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/uHRj6HrUHeALy1-VDx1pGBWfUK8/djqqVg../BBQ+Joint.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7141151,33.745042
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9161179,33.6007588
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8569321,38.4643179
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4092915,35.3124172
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/_d6F5mXisuLgvZVG-ySf-8EON8U/BWPdcQ../Restaurants+%26+Roadhouses++.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4658017,34.4041652
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/4c8SwEztp5RQxtc3eRoU_vy31ig/on1XRw../Non-Profit.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.546595,38.8561
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5951335,33.5333021
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2018803,35.8441756
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2323964,39.2677333
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6197975,33.6046239
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6236908,40.1525005
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6619971,36.7846657
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8645975,39.0157698
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2179377,34.4972481
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/n3I7Xa1IUdtn0nLo8p0DmpnVEYc/P2POwA../Attraction.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1755325,38.1013645
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.843511,38.418956
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/09BgqheajbHP4bLBYl56fW1gMYU/oMOw8Q../Winery.png"}},    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1949334,33.4730867
+        ]
+      },
+      "properties": {
+        "icon": "https://xuol-b9qt-btqq.n7d.xano.io/vault/DBe_89br/KMCle_iXs9TaHFJAlLMQFppWJcA/HAqUMg../Farm.png"}}]}
